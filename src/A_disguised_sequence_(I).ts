@@ -1,3 +1,7 @@
+/*
+6 kyu: A disguised sequence (I)
+https://www.codewars.com/kata/a-disguised-sequence-i/train/typescript
+*/
 export class G964 {
     public static fcn(n: number): number {
         if (n == 0) return 1;
