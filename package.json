@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "test": "npm build && mocha out/test"
+    "test": "mocha out/test"
   },
   "keywords": [
     "ts",

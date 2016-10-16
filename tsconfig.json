@@ -5,7 +5,7 @@
         "sourceMap": false,
         "outDir": "out"
     },
-    "compileOnSave": false,
+    "compileOnSave": true,
     "exclude": [
         "node_modules"
     ]
